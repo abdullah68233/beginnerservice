@@ -13,7 +13,7 @@ namespace SqlTest_CSharp
     {
         public List<Employee> GetEmployeeData()
         {
-            gjufkctzsdx
+
             using (SqlConnection conn = new SqlConnection())
             {
 
